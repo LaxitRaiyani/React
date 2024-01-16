@@ -1,0 +1,12 @@
+1) Road map
+2) how to install git,how to directly push code in gihub,how to create react and vite app,clearing of react app
+3) controle flow of react,nameing convension of file and function in vite and react app
+4) how to create our custom react liberary
+5) why use hooks, how to import and use of hooks, counter project of hooks
+6) what is virtualDOM,Fibre and reconciliation
+7) how to use tailwindcss and props, how to create components and handel props
+8) React interview question on counter
+9) BG-Changer project using hooks
+10) how to use useCallback,useEffect and useRef with one project that name is "PasswordGenerator"
+11) how to create custom hooks, how to fetch api, how to create reusable components with one project that name is "Currency Convertor"
+12) React Router
